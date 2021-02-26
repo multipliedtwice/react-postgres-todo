@@ -6,7 +6,7 @@ Simple todo made with react, tailwind, postgres, knex, etc.
 
 # Installation
 
-1. Create a `.git initenv` file in the server directory with this content
+1. Create a `.env` file in the server directory with this content
 
 ```
 DB_HOST=localhost
